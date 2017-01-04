@@ -1,13 +1,20 @@
 #header img {
 top=0;
 left=0;
-float=left;
 width=100%;
 }
 
-#a {
+.menubar {
 background-color=#49649b;
-clear=left;
-height=300px;
+top=-300px;
+left=0;
+height=5%;
+width=100%;
 
+}
+
+#asheville_image {
+width=100%;
+left=0;
+clear=left;
 }
