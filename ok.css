@@ -1,0 +1,26 @@
+#header img {
+top:0;
+left:0;
+width:100%;
+}
+
+.menubar {
+background-color:#49649b;
+left:0;
+clear:left;
+height:45px;
+width:100%;
+
+}
+
+#asheville_image {
+width:100%;
+left:0;
+clear:left;
+}
+* {
+color:white;
+font-type:Verdana;
+margin:0;
+padding:0;
+}
